@@ -1,0 +1,2 @@
+# eBay_API-GTIN_to_ePID
+The GTIN is a universal standardization of many more commonly known product identifiers such as ISBN, ISSN, ISMN, IAN, and UPC. eBay uses an identifier known as an eBay Product ID for each individual product catalogued with associated specifications and product details. This project uses several Python libraries and modules to request and record the ePID values for a given set of GTIN values.
